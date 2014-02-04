@@ -34,7 +34,7 @@ test Dan Allen <https://github.com/mojavelinux[@mojavelinux]>; Ryan Waldron <htt
 :idseparator: -
 :language: ruby
 
-{homepage}[Asciidoctor] is an open source text processor and publishing toolchain for transforming {asciidoc}[AsciiDoc] markup into HTML 5, DocBook 4.5 and 5.0 and other custom formats.
+{homepage}[Asciidoctor] is a an open source text processor and publishing toolchain for transforming {asciidoc}[AsciiDoc] markup into HTML 5, DocBook 4.5 and 5.0 and other custom formats.
 Asciidoctor is written entirely in Ruby, packaged as a RubyGem and published to {gem}[RubyGems.org].
 There are also Fedora, Debian and Ubuntu packages available for installing Asciidoctor.
 Asciidoctor is released under the MIT license.
