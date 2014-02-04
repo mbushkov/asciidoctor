@@ -1,5 +1,5 @@
 = Asciidoctor
-Dan Allen <https://github.com/mojavelinux[@mojavelinux]>; Ryan Waldron <https://github.com/erebor[@erebor]>; Sarah White <https://github.com/graphitefriction[@graphitefriction]>
+test Dan Allen <https://github.com/mojavelinux[@mojavelinux]>; Ryan Waldron <https://github.com/erebor[@erebor]>; Sarah White <https://github.com/graphitefriction[@graphitefriction]>
 :page-layout: base
 :homepage: http://asciidoctor.org
 :asciidoc: http://asciidoc.org
